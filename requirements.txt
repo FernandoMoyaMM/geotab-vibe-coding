@@ -1,0 +1,7 @@
+streamlit
+google-genai
+google-cloud-storage
+python-dotenv
+requests
+beautifulsoup4
+pypdf
